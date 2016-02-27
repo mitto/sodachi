@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    romkan (0.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  romkan
+
+BUNDLED WITH
+   1.11.2
